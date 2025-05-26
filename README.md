@@ -1,6 +1,6 @@
 # Night City Lore
 
-This repository contains information about Night City as described for my campaign of Cybersymbiosis.
+This repository describes Night City and the world surrounding it in the year 2216 to run a Cybersymbiosis campaign adapted to Cyberpunk's brightest neon city.
 
 
 ## [Factions](/factions/README.md)
