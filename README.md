@@ -2,6 +2,8 @@
 
 This repository describes Night City and the world surrounding it in the year 2216 to run a Cybersymbiosis campaign adapted to Cyberpunk's brightest neon city.
 
+![Sunset over Night City](https://raw.githubusercontent.com/zer0db/cnc-lore/refs/heads/main/cover.png)
+
 
 ## [Factions](/factions/README.md)
 
