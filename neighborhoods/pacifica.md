@@ -1,6 +1,6 @@
 # Pacifica
 
-![Pacifica photo](https://raw.githubusercontent.com/asidiehl/night-city-lore/refs/heads/main/neighborhoods/images/pacifica.png)
+![Pacifica photo](https://raw.githubusercontent.com/zer0db/cnc-lore/refs/heads/main/neighborhoods/images/pacifica.png)
 
 Pacifica is one of Night City's most distinctive and troubled districts, a stark contrast to the gleaming corporate towers of City Center. Originally envisioned as a luxurious tourist resort, the district's development was halted mid-way, leaving behind a half-finished dream and a landscape dominated by crumbling infrastructure and abandoned projects. It's now primarily inhabited by the Haitian immigrant community, who sought refuge in Night City and have largely carved out their own society within Pacifica's neglected bounds. This isolation has led to a strong sense of community but also made Pacifica a hotspot for criminal activity, particularly the Voodoo Boys gang, who exert significant control over the area.
 

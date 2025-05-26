@@ -1,6 +1,6 @@
 # City Center
 
-![City Center photo](https://raw.githubusercontent.com/asidiehl/night-city-lore/refs/heads/main/neighborhoods/images/city-center.png)
+![City Center photo](https://raw.githubusercontent.com/zer0db/cnc-lore/refs/heads/main/neighborhoods/images/city-center.png)
 
 The beating heart of Night City, and a testament to corporate power and relentless reconstruction. Characterized by towering skyscrapers and neon lights, it serves as the main commercial district and a playground for the city's wealthiest residents. The City Center is divided into two sub-districts.
 

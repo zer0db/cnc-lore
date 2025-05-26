@@ -1,6 +1,6 @@
 # Heywood
 
-![Heywood photo](https://raw.githubusercontent.com/asidiehl/night-city-lore/refs/heads/main/neighborhoods/images/heywood.png)
+![Heywood photo](https://raw.githubusercontent.com/zer0db/cnc-lore/refs/heads/main/neighborhoods/images/heywood.png)
 
 Heywood is one of Night City's most diverse and densely populated districts, often described as a true melting pot. It bridges the gap between the affluent corporate districts and the more impoverished, gang-controlled areas, reflecting a wide spectrum of Night City's social strata. While it's home to some upscale residential complexes and commercial areas, particularly bordering City Center, the majority of Heywood consists of working-class neighborhoods, bustling markets, and the occasional rundown street. It's a place where communities thrive, often amidst the constant presence of various gangs vying for influence, making it a district of vibrant life and underlying tension.
 
