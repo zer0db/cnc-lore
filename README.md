@@ -4,7 +4,6 @@ This repository describes Night City and the world surrounding it in the year 22
 
 ![Sunset over Night City](https://raw.githubusercontent.com/zer0db/cnc-lore/refs/heads/main/cover.png)
 ![Sunset over Night City](https://raw.githubusercontent.com/zer0db/cnc-lore/refs/heads/main/cover-50.png)
-![Sunset over Night City](https://raw.githubusercontent.com/zer0db/cnc-lore/refs/heads/main/cover.jpg)
 
 
 ## [Factions](/factions/README.md)
