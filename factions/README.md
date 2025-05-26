@@ -96,7 +96,7 @@ The Tyger Claws, a clan of Japanese origin, is influenced by style and is intimi
 ### Moxes
 
 ![Moxes logo](https://raw.githubusercontent.com/asidiehl/night-city-lore/refs/heads/main/factions/images/moxes.png)
-> The Mox isn’t as big or as territorial as other gangs, but they are a force. Run by sex workers, punks, anarchists and sexual minorities inspired by the ways of the late stripper-turned-strip-club-owner Elizabeth “Lizzie” Borden, they shield their own from violence and abuse. Make no mistake, however - they are no saints. Their brand of protection is neither bloodless nor free, nor is it devoid of its own share of shady dealings.
+> The Mox isn’t as big or as territorial as other gangs, but they are a force. Run by sex workers, punks, anarchists and sexual minorities inspired by the ways of the late stripper-turned-strip-club-owner Elizabeth "Lizzie" Borden, they shield their own from violence and abuse. Make no mistake, however - they are no saints. Their brand of protection is neither bloodless nor free, nor is it devoid of its own share of shady dealings.
 
 The Moxes were formed in 2067 after the death of Elizabeth "Lizzie" Borden, a strip club owner who defended them from violent clients. The Mox refer to themselves as "those who protect working girls and guys" from violence and abuse.
 - Estimated Gang Size: 200 - 250
