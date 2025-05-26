@@ -42,7 +42,6 @@ This repository describes Night City and the world surrounding it in the year 22
 - [The Eruption of Mount Rainier](/world-overview/README.md#the-eruption-of-mount-rainier)
 - [Alien Refugees](/world-overview/README.md#alien-refugees)
 - [The Orc Crisis](/world-overview/README.md#the-orc-crisis)
-
 - [Earth’s New Imperial Era](/world-overview/1-earth.md)
   - [The Imperial States of America](/world-overview/1-earth.md#the-imperial-states-of-america)
   - [The European Union](/world-overview/1-earth.md#the-european-union)
@@ -51,7 +50,6 @@ This repository describes Night City and the world surrounding it in the year 22
   - [Imperial Russia](/world-overview/1-earth.md#imperial-russia)
   - [China](/world-overview/1-earth.md#china)
   - [Africa and the Middle East](/world-overview/1-earth.md#africa-and-the-middle-east)
-
 - [Space](/world-overview/2-space.md)
   - [Earth Orbit](/world-overview/space.md#earth-orbit)
   - [The Moon](/world-overview/space.md#the-moon)
@@ -64,3 +62,4 @@ This repository describes Night City and the world surrounding it in the year 22
   - [Jupiter](/world-overview/space.md#jupiter)
   - [Saturn](/world-overview/space.md#saturn)
   - [Neptune, Uranus and the Dwarf Planets](/world-overview/space.md#neptune,-uranus-and-the-dwarf-planets)
+  
