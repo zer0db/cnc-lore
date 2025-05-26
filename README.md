@@ -33,7 +33,7 @@ This repository contains information about Night City as described for my campai
   - Night City Broadcasting Station
   - The Arcadium
 - Westbrook
-  - Club Mox
+  - Lizzie's Bar
 - Night City Estates
   - Moon Mansion
 
