@@ -1,6 +1,6 @@
 # Night City Estates / North Oak
 
-![Estates photo](https://raw.githubusercontent.com/zer0db/cnc-lore/refs/heads/main/neighborhoods/images/estates.png)
+![Estates photo](https://raw.githubusercontent.com/zer0db/cnc-lore/refs/heads/main/images/estates.png)
 
 The "Night City Estates" region of Night City, often more specifically referred to as North Oak, represents the pinnacle of luxury and exclusivity within the megalopolis. This is where Night City's truly wealthy elite reside: corpo executives, venture capitalists, famous musicians, and actors. Unlike the dense, vertical sprawl of other districts, North Oak is characterized by spacious, sprawling villas, manicured lawns, and private estates, offering a sense of privacy and tranquility rarely found elsewhere in the city.
 

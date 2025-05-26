@@ -1,6 +1,6 @@
 # Westbrook
 
-![Westbrook photo](https://raw.githubusercontent.com/zer0db/cnc-lore/refs/heads/main/neighborhoods/images/westbrook.png)
+![Westbrook photo](https://raw.githubusercontent.com/zer0db/cnc-lore/refs/heads/main/images/westbrook.png)
 
 Westbrook is one of Night City's most affluent district. It's a stark contrast to the gritty realities found in many other parts of the city, characterized by luxurious high-rises, exclusive clubs, high-end boutiques, and pristine streets. Life here is generally safer and more comfortable than elsewhere, but even in Westbrook, the undercurrents of Night City's power struggles and social stratification are never far beneath the surface.
 
